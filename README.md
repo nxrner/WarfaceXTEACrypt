@@ -1,3 +1,5 @@
 # CryTeaCrypt
+Simple Tiny Encryption Algorithm.
+
 ## Example on Warface
-Drag the file from the ```%USER%\Saved Games\My Games\Warface\QueryCache``` on the .exe file to convert
+Drag the file from the ```%USER%\Saved Games\My Games\Warface\QueryCache``` on the .exe file to convert.
